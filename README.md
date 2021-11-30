@@ -1,4 +1,4 @@
-## Fiz esse projeto acompanhando passo a passo pelo vídeo tutorial do Canal "***Clever Programmer***" no Youtube.  
+## Fiz esse projeto acompanhando o tutorial ensinado pela galera do "***Clever Programmer***" no Youtube.  
 ### Esses caras são feras!  
 
 Postarei o link do vídeo oficial e, em breve, postarei também o meu próprio no site *netlify* com as anotações que fiz no VsCode.  
